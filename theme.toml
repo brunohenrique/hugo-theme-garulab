@@ -1,0 +1,17 @@
+name = "Garulab"
+license = "MIT"
+licenselink = "https://github.com/brunohenrique/hugo-theme-garulab/blob/master/LICENSE.md"
+description = "Garulab theme inspired by Casper from Ghost Foundation"
+homepage = "http://garulab.com"
+tags = ["blog"]
+features = ["disqus", "google analytics","share"]
+min_version=0.1
+
+[author]
+  name = "Bruno Henrique"
+  homepage = "garulab.com"
+
+[original]
+  name = "Casper"
+  homepage = "https://github.com/TryGhost/Casper"
+  repo = "https://github.com/TryGhost/Casper"
